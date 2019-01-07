@@ -8,3 +8,4 @@ static
 migrations
 *.sqlite3
 requirements.txt
+templates
